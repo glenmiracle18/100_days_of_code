@@ -1,0 +1,1 @@
+I want to develop a web app where you can find talents to hire talents for your next project
